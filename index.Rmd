@@ -19,3 +19,8 @@ I cna link directly to my [about page](about.html).
 Isn't it pretty:
 
 <img src="images/IMG_2509.jpg" style="width:75%">
+
+
+
+My [code](code.html) page is here.
+
