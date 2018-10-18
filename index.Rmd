@@ -1,17 +1,5 @@
 ---
-name: "Yay internet!"
-output_dir: "."
-navbar:
-  title: "Home"
-  right:
-    - text: "About"
-      href: about.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<tj2383@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: http://github.com/tj2383/
-output:
-  html_document
+name: "Holy cow!"
 ---
 
 ### I have a webpage!
