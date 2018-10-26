@@ -7,5 +7,3 @@ name: "Home Page!"
 I graduated from the [University of Connecticut](https://chemistry.uconn.edu/) with a BS in Chemistry and am currently a second-year Master of Public Health student at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/epidemiology)!
 
 My research interests include emergeny obstetric care, perinatal epidemiology, and other areas of domestic and global maternal health.
-
-
