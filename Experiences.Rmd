@@ -3,7 +3,9 @@ name: "Home Page!"
 ---
 
 # Tanvi Jain
-I am currently a second-year Master of Public Health student at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/epidemiology)! My research interests include emergeny obstetric care, perinatal epidemiology, and other areas of domestic and global maternal and child health.
+###MPH Candidate, 2019
+####Epidemiology, Certificate Applied Biostatistics
+####Columbia University Mailman School of Public Health
 
 
 
