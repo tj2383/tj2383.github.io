@@ -2,7 +2,7 @@ name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
-  right:
+  left:
     - text: "Experiences"
       href: experiences.html
     - icon: fa-envelope fa-lg
