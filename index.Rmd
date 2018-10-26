@@ -4,8 +4,8 @@ name: "Home Page!"
 
 # Tanvi Jain
 ###MPH Candidate, 2019
-###Epidemiology, Certificate Applied Biostatistics
-###Columbia University Mailman School of Public Health
+####Epidemiology, Certificate Applied Biostatistics
+####Columbia University Mailman School of Public Health
 
 
 
