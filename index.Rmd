@@ -1,8 +1,16 @@
 ---
-name: "Holy cow!"
+name: "Home Page!"
 ---
 
-### I have a webpage!
+# Tanvi Jain
+###MPH Candidate, 2019
+###Epidemiology, Certificate Applied Biostatistics
+###Columbia University Mailman School of Public Health
+
+
+
+
+
 
 And I can put all kinds of stuff on it!
 
