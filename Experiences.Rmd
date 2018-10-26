@@ -1,34 +1,34 @@
 ---
-name: "Home Page!"
+name: "Experiences"
 ---
 
-# Tanvi Jain
-###MPH Candidate, 2019
-####Epidemiology, Certificate Applied Biostatistics
-####Columbia University Mailman School of Public Health
+###Education:
+
+####Columbia University Mailman School of Public Health (2017-2019)
+MPH Epidemiology (Certificate: Applied Biostatistics)
 
 
+####University of Connecticut College of Liberal Arts & Sciences (2012-2016)
+BS Chemistry (Minor: French)
+
+###Professional Public Health Experiences:
+
+####Columbia University Mailman School of Public Health (Sept. 2018-present)
+Graduate Teaching Assistant- The Core
 
 
+####Columbia Universtiy Medical Center (Sept. 2018-present)
+Graduate Research Assistant- Department of Epidemiology & Department of Obstetrics/Gynecology
 
 
-And I can put all kinds of stuff on it!
-
-I can add additional text.
-
-I could write some code but I'm not going to.
-
-### Add some links (embedd)
-I like [google](https://www.google.com/).
-
-I cna link directly to my [about page](about.html).
-
-###Picture of my farm!
-Isn't it pretty:
-
-<img src="images/IMG_2509.jpg" style="width:75%">
+####NYC Department of Health & Mental Hygiene (June 2018-present)
+Epi Scholar- Bureau of Maternal, Infant, & Reproductive Health
 
 
+####United States Pharmacopeia (May 2017-Aug. 2017)
+Health Standards Intern- Global Public Health
 
-My [code](code.html) page is here.
+
+####Fair Access Medicines (Oct. 2016-April 2017)
+Intern- Public Health
 
