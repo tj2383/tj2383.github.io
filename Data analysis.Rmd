@@ -34,5 +34,13 @@ instacart_data %>%
           alpha = 0.5)
 ```
 
+###Distribution of orders by department each day
+```{r}
+instacart_data %>% 
+  group_by(department, order_dow) %>% 
+  summarize(orders = n()) %>% 
+  plot_ly(x = ~order_dow, y = ~orders, type = "box", mode = "markers", color = ~orders,
+          alpha = 0.5)
+```
 
 
