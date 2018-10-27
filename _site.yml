@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   left:
     - text: "Experiences"
-      href: experiences.html
+      href: Experiences.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<tj2383@cumc.columbia.edu>
