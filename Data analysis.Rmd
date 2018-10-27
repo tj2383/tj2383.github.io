@@ -1,0 +1,11 @@
+---
+name: "Data analysis"
+---
+
+Loading packages:
+```{r}
+library(tidyverse)
+library(plotly)
+library(p8105.datasets)
+```
+
