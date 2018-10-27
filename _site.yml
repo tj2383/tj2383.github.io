@@ -5,8 +5,6 @@ navbar:
   left:
     - text: "Experiences"
       href: experiences.html
-    - text: "Resume"
-      href: resume.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<tj2383@cumc.columbia.edu>
