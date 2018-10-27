@@ -20,8 +20,19 @@ instacart_data = instacart %>%
 instacart_data %>% 
   group_by(aisle) %>%  
   summarize(amount_ordered = n()) %>% 
-  plot_ly(x = ~aisle, y = ~amount_ordered, type = "bar",
+  plot_ly(x = ~aisle, y = ~amount_ordered, type = "scatter", mode = "markers",
           alpha = 0.5)
 ```
+
+
+###Amount of orders by day
+```{r}
+instacart_data %>% 
+  group_by(order_dow) %>% 
+  summarize(total_orders = n()) %>% 
+  plot_ly(x = ~order_dow, y = ~total_orders, type = "bar",
+          alpha = 0.5)
+```
+
 
 
