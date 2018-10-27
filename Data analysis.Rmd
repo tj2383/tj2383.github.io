@@ -1,5 +1,9 @@
 ---
-name: "Data analysis"
+title: "Data analysis"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
 ###Data from Instacart users and purchases
