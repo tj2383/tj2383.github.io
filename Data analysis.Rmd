@@ -48,4 +48,9 @@ instacart_data %>%
           alpha = 0.5)
 ```
 
+```{r}
+#rmarkdown::render("Data analysis.Rmd", output_format = "flex_dashboard")
+```
+
+
 
