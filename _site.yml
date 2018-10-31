@@ -2,10 +2,11 @@ name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
-  left:
+  right:
     - text: "Experiences"
       href: Experiences.html
-  right:
+    - text: "Dashboard"
+      href: Data analysis.html
     - icon: fa-envelope fa-lg
       href: mailto:<tj2383@cumc.columbia.edu>
     - icon: fa-github fa-lg
