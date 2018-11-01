@@ -49,7 +49,7 @@ instacart_data %>%
 ```
 
 ```{r}
-rmarkdown::render("Dashboard.Rmd", output_format = "flex_dashboard")
+#rmarkdown::render("Dashboard.Rmd", output_format = "flex_dashboard")
 ```
 
 
