@@ -2,7 +2,7 @@
 name: "Experiences"
 ---
 
-###Education:
+###**Education:**
 
 ####Columbia University Mailman School of Public Health (2017-2019)
 MPH Epidemiology (Certificate: Applied Biostatistics)
@@ -16,25 +16,24 @@ BS Chemistry (Minor: French)
 
 <img src="images/uconn.jpg" style="width:30%">
 
-###Professional Public Health Experiences:
+###**Professional Public Health Experiences:**
 
-####Columbia University Mailman School of Public Health (Sept. 2018-present)
+####1. Columbia University Mailman School of Public Health (Sept. 2018-present)
 Graduate Teaching Assistant- The Core
 
-<img src="images/msph.png" style="width:30%">
 
-####Columbia Universtiy Medical Center (Sept. 2018-present)
+####2. Columbia Universtiy Medical Center (Sept. 2018-present)
 Graduate Research Assistant- Department of Epidemiology & Department of Obstetrics/Gynecology
 
 
-####NYC Department of Health & Mental Hygiene (June 2018-present)
+####3. NYC Department of Health & Mental Hygiene (June 2018-present)
 Epi Scholar- Bureau of Maternal, Infant, & Reproductive Health
 
 
-####United States Pharmacopeia (May 2017-Aug. 2017)
+####4. United States Pharmacopeia (May 2017-Aug. 2017)
 Health Standards Intern- Global Public Health
 
 
-####Fair Access Medicines (Oct. 2016-April 2017)
+####5. Fair Access Medicines (Oct. 2016-April 2017)
 Intern- Public Health
 

@@ -1,5 +1,5 @@
 ---
-title: "Data_analysis"
+title: "Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -49,7 +49,7 @@ instacart_data %>%
 ```
 
 ```{r}
-rmarkdown::render("Data_analysis.Rmd", output_format = "flex_dashboard")
+rmarkdown::render("Dashboard.Rmd", output_format = "flex_dashboard")
 ```
 
 

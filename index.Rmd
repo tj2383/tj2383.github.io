@@ -7,3 +7,5 @@ name: "Home Page!"
 I graduated from the [University of Connecticut](https://chemistry.uconn.edu/) with a BS in Chemistry and am currently a second-year Master of Public Health student at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/epidemiology)!
 
 My research interests include emergency obstetric care, perinatal epidemiology, and other areas of maternal health.
+
+Here is a link to my [Dashboard](https://tj2383.github.io/Dashboard.html) which contains some exploratory analysis in the form of plots conducted on data about Instacart users.
