@@ -16,7 +16,7 @@ library(flexdashboard)
 
 
 ###Amount of products ordered from each aisle
-Column {data-width=350}
+Column {data-width=500}
 -----------------------------------------------------------------------
 ```{r}
 data("instacart")
@@ -33,7 +33,7 @@ instacart_data %>%
 
 
 ###Amount of orders by day
-Column {data-width=350}
+Column {data-width=300}
 -----------------------------------------------------------------------
 ```{r}
 instacart_data %>% 
@@ -44,7 +44,7 @@ instacart_data %>%
 ```
 
 ###Distribution of orders by department each day
-Column {data-width=350}
+Column {data-width=300}
 -----------------------------------------------------------------------
 ```{r}
 instacart_data %>% 
