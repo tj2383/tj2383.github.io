@@ -17,6 +17,7 @@ library(flexdashboard)
 
 ###Amount of products ordered from each aisle
 Column {data-width=350}
+-----------------------------------------------------------------------
 ```{r}
 data("instacart")
 
@@ -33,6 +34,7 @@ instacart_data %>%
 
 ###Amount of orders by day
 Column {data-width=350}
+-----------------------------------------------------------------------
 ```{r}
 instacart_data %>% 
   group_by(order_dow) %>% 
@@ -43,6 +45,7 @@ instacart_data %>%
 
 ###Distribution of orders by department each day
 Column {data-width=350}
+-----------------------------------------------------------------------
 ```{r}
 instacart_data %>% 
   group_by(department, order_dow) %>% 
