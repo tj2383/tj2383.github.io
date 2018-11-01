@@ -15,4 +15,4 @@ navbar:
       href: https://www.linkedin.com/in/tanvi-jain-a31973122/
 output:
   html_document:
-  theme: cosmo
+     theme: paper
