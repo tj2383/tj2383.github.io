@@ -30,7 +30,7 @@ instacart_data %>%
           alpha = 0.5)
 ```
 
-Column {data-width=300}
+Column {data-width=500}
 -----------------------------------------------------------------------
 ###Amount of orders by day
 ```{r}
@@ -41,7 +41,7 @@ instacart_data %>%
           alpha = 0.5)
 ```
 
-Column {data-width=300}
+Column {data-width=500}
 -----------------------------------------------------------------------
 ###Distribution of orders by department each day
 ```{r}

@@ -3,6 +3,7 @@ name: "Experiences"
 ---
 
 <br>
+<center>
 
 ###**Education:**
 
@@ -13,7 +14,7 @@ MPH Epidemiology (Certificate: Applied Biostatistics)
 
 <center>
 <img src="images/CUMSPH.jpg" style="width:30%">
-
+<br>
 
 ####University of Connecticut College of Liberal Arts & Sciences (2012-2016)
 BS Chemistry (Minor: French)
@@ -22,6 +23,8 @@ BS Chemistry (Minor: French)
 <img src="images/uconn.jpg" style="width:30%">
 
 <br>
+
+<center>
 
 ###**Professional Public Health Experience:**
 
@@ -33,18 +36,22 @@ Graduate Teaching Assistant- The Core
 <center>
 <img src="images/msph.jpg" style="width:30%">
 
+<br>
+
 
 ####Columbia Universtiy Irving Medical Center (Sept. 2018-present)
 Graduate Research Assistant- Department of Epidemiology & Department of Obstetrics/Gynecology
 
 <center>
 <img src="images/obgyn.jpg" style="width:30%">
+<br>
 
 ####NYC Department of Health & Mental Hygiene (June 2018-present)
 Epi Scholar- Bureau of Maternal, Infant, & Reproductive Health
 
 <center>
 <img src="images/dohmh.jpg" style="width:30%">
+<br>
 
 
 ####United States Pharmacopeia (May 2017-Aug. 2017)
@@ -52,6 +59,7 @@ Health Standards Intern- Global Public Health
 
 <center>
 <img src="images/usp.jpg" style="width:30%">
+<br>
 
 
 ####Fair Access Medicines (Oct. 2016-April 2017)
