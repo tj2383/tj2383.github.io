@@ -14,10 +14,9 @@ library(p8105.datasets)
 library(flexdashboard)
 ```
 
-
-###Amount of products ordered from each aisle
-Column {data-width=500}
+Column {data-width=600}
 -----------------------------------------------------------------------
+###Amount of products ordered from each aisle
 ```{r}
 data("instacart")
 
@@ -31,10 +30,9 @@ instacart_data %>%
           alpha = 0.5)
 ```
 
-
-###Amount of orders by day
 Column {data-width=300}
 -----------------------------------------------------------------------
+###Amount of orders by day
 ```{r}
 instacart_data %>% 
   group_by(order_dow) %>% 
@@ -43,9 +41,9 @@ instacart_data %>%
           alpha = 0.5)
 ```
 
-###Distribution of orders by department each day
 Column {data-width=300}
 -----------------------------------------------------------------------
+###Distribution of orders by department each day
 ```{r}
 instacart_data %>% 
   group_by(department, order_dow) %>% 

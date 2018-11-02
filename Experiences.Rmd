@@ -2,38 +2,61 @@
 name: "Experiences"
 ---
 
+<br>
+
 ###**Education:**
+
+<br>
 
 ####Columbia University Mailman School of Public Health (2017-2019)
 MPH Epidemiology (Certificate: Applied Biostatistics)
 
-
+<center>
 <img src="images/CUMSPH.jpg" style="width:30%">
 
 
 ####University of Connecticut College of Liberal Arts & Sciences (2012-2016)
 BS Chemistry (Minor: French)
 
+<center>
 <img src="images/uconn.jpg" style="width:30%">
 
-###**Professional Public Health Experiences:**
+<br>
 
-####1. Columbia University Mailman School of Public Health (Sept. 2018-present)
+###**Professional Public Health Experience:**
+
+<br>
+
+####Columbia University Mailman School of Public Health (Sept. 2018-present)
 Graduate Teaching Assistant- The Core
 
+<center>
+<img src="images/msph.jpg" style="width:30%">
 
-####2. Columbia Universtiy Medical Center (Sept. 2018-present)
+
+####Columbia Universtiy Irving Medical Center (Sept. 2018-present)
 Graduate Research Assistant- Department of Epidemiology & Department of Obstetrics/Gynecology
 
+<center>
+<img src="images/obgyn.jpg" style="width:30%">
 
-####3. NYC Department of Health & Mental Hygiene (June 2018-present)
+####NYC Department of Health & Mental Hygiene (June 2018-present)
 Epi Scholar- Bureau of Maternal, Infant, & Reproductive Health
 
+<center>
+<img src="images/dohmh.jpg" style="width:30%">
 
-####4. United States Pharmacopeia (May 2017-Aug. 2017)
+
+####United States Pharmacopeia (May 2017-Aug. 2017)
 Health Standards Intern- Global Public Health
 
+<center>
+<img src="images/usp.jpg" style="width:30%">
 
-####5. Fair Access Medicines (Oct. 2016-April 2017)
+
+####Fair Access Medicines (Oct. 2016-April 2017)
 Intern- Public Health
+
+<center>
+<img src="images/fam2.jpg" style="width:30%">
 

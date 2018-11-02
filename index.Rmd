@@ -2,10 +2,16 @@
 name: "Home Page!"
 ---
 
+<br>
+<center>
+
 #Tanvi Jain
 
-I graduated from the [University of Connecticut](https://chemistry.uconn.edu/) with a BS in Chemistry and am currently a second-year Master of Public Health student at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/epidemiology)!
+<br>
 
-My research interests include emergency obstetric care, perinatal epidemiology, and other areas of maternal health.
+<img src="images/leaves.jpg" style="width:75%">
 
-Here is a link to my [Dashboard](https://tj2383.github.io/Dashboard.html) which contains some exploratory analysis in the form of plots conducted on data about Instacart users.
+<br>
+
+I am currently a second-year Master of Public Health student at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/epidemiology). My research interests include emergency obstetric care, perinatal epidemiology, and other areas of maternal health. When I'm not thinking about the fragile state of healthcare systems I live for the New England Patriots and Michigan football! #GoBlue
+
